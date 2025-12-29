@@ -45,19 +45,16 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cytrix&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A855F7&text_color=ffffff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cytrix&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cytrix&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A855F7&fire=C084FC&currStreakLabel=ffffff"/>
+| 📈 Métrique | 💎 Valeur |
+|:-----------:|:---------:|
+| 🔥 Projets réalisés | **10+** |
+| ⭐ Lignes de code | **50k+** |
+| 🚀 SaaS lancés | **2** |
+| ☕ Cafés bus | **∞** |
 
 </div>
 
@@ -81,7 +78,7 @@
 
 <div align="center">
 
-[![Lancerboard](https://img.shields.io/badge/🎯_Lancerboard-Plateforme_SaaS_pour_Freelances-8B5CF6?style=for-the-badge)](https://github.com/cytrix/Lancerboard)
+[![Lancerboard](https://img.shields.io/badge/🎯_Lancerboard-Plateforme_SaaS_pour_Freelances-8B5CF6?style=for-the-badge)](https://lancerboard.fr/)
 
 </div>
 
@@ -101,11 +98,13 @@
 
 ---
 
-### 📈 Activité
+### 🧰 Environnement
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cytrix&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=A855F7&point=C084FC"/>
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 </div>
 
@@ -120,9 +119,5 @@
 <br>
 
 *"Le code est de la poésie que les machines peuvent lire."*
-
-<br>
-
-![Visitors](https://komarev.com/ghpvc/?username=cytrix&color=8B5CF6&style=flat-square&label=Visiteurs)
 
 </div>
